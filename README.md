@@ -1,2 +1,3 @@
 # hello-world
-Testing github
+This is a test page for my first GitHub attempt
+I hope I like it :)
